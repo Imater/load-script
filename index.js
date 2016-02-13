@@ -1,5 +1,8 @@
 
 module.exports = function load (src, opts, cb) {
+  if(typeof document === 'undefined') {
+    return;
+  }
   var head = document.head || document.getElementsByTagName('head')[0]
   var script = document.createElement('script')
 
