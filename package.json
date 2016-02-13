@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/eldargab/load-script"
+    "url": "git://github.com/imater/load-script"
   },
   "scripts": {
     "test": "zuul -- test/index.js",
