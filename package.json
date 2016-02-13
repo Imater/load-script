@@ -1,5 +1,5 @@
 {
-  "name": "load-script",
+  "name": "load-script-isomorphic",
   "description": "Dynamic script loading for browser",
   "version": "1.0.0",
   "keywords": [
